@@ -14,4 +14,4 @@ to install the libaries used copy the following commands in your terminal
 - pip install mediapie
 - pip install opencv-python
 - pip install numpy 
-- download the 4 pictures for the changing ui when different modes are selected.
+- download the 4 pictures for the changing ui when different modes are selected. (save it in folder named 'header')
