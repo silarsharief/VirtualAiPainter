@@ -8,3 +8,10 @@ When the index, middle and the ring finger are held up, the pointer automaticall
 # Disclaimers 
 Only 1 hand at a time is tracked, multiple hands will be read but only one will be tracked.
 While using inbuilt laptop webcams, the fps drop is very high, therefore it is recommended to use a better webcam or draw slowly so that the computer can track the finger for smoother drawing experience. 
+
+#downloads 
+to install the libaries used copy the following commands in your terminal
+- pip install mediapie
+- pip install opencv-python
+- pip install numpy 
+- download the 4 pictures for the changing ui when different modes are selected.
